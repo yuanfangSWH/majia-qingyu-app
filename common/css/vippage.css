@@ -1,0 +1,288 @@
+.toubu {
+	width: 100%;
+	height: 360upx;
+	position: relative;
+}
+
+.ysey {
+	width: 100%;
+	height: 240upx;
+	background-color: #FCBB67;
+}
+
+.zhuyhxmk {
+	width: 690upx;
+	height: 316upx;
+	position: absolute;
+	left: 50%;
+	margin-left: -340upx;
+	top: 30upx;
+}
+
+.mik1 {
+	width: 100%;
+	height: 90upx;
+	display: flex;
+	padding-top: 30upx;
+}
+
+.tuxdiv {
+	width: 74upx;
+	height: 74upx;
+	border: 2px #E8DCDE solid;
+	border-radius: 50upx;
+	overflow: hidden;
+	margin-left: 36upx;
+}
+
+.touximg {
+	width: 100%;
+	height: 100%;
+}
+
+.wzmk {
+	flex: 1;
+	height: 76upx;
+	margin-left: 20upx;
+}
+
+.yonnc {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 30upx;
+	color: #F4E3B8;
+	padding-top: 10upx;
+}
+
+.wktm {
+	width: 100%;
+	height: 40upx;
+	line-height: 40upx;
+	font-size: 24upx;
+	color: #9B9BB1;
+}
+
+.mik2 {
+	width: 100%;
+	height: 64upx;
+	padding-top: 40upx;
+	padding-bottom: 36upx;
+}
+
+.aniuan {
+	width: 193upx;
+	height: 64upx;
+	background: linear-gradient(-82deg, rgba(251, 241, 214, 1), rgba(244, 227, 184, 1));
+	border-radius: 8upx;
+	line-height: 64upx;
+	font-size: 24upx;
+	color: #222039;
+	text-align: center;
+	float: right;
+	margin-right: 30upx;
+}
+
+.tism {
+	width: 100%;
+	height: 26upx;
+	display: flex;
+	padding-top: 110upx;
+}
+
+.tism image {
+	width: 26upx;
+	height: 26upx;
+	display: block;
+	padding-top: 6upx;
+	margin-left: 36upx;
+	margin-right: 10upx;
+}
+
+.wzlbq {
+	width: 580upx;
+	height: auto;
+	line-height: 34upx;
+	font-size: 22upx;
+	color: #FAEFD2;
+}
+
+.taocbt {
+	width: 690upx;
+	height: 36upx;
+	line-height: 36upx;
+	display: flex;
+	padding-top: 40upx;
+	padding-bottom: 40upx;
+}
+
+.wzxy {
+	flex: 1;
+	height: 100%;
+	font-size: 36upx;
+	color: #101010;
+	font-weight: bold;
+}
+
+.huiyxy {
+	width: 164upx;
+	height: 100%;
+	font-size: 24upx;
+	color: #FCBB67;
+}
+
+.wdtjrw {
+	width: 100%;
+	height: 310upx;
+	overflow-y: scroll;
+}
+
+.wdtjrw::-webkit-scrollbar {
+	display: none;
+}
+
+.wmjtsqtoo {
+	height: 100%;
+}
+
+.zgsjiaoq {
+	width: 230upx;
+	height: 300upx;
+	background-color: #F0F0F0;
+	border: 1px solid rgba(240, 240, 240, 1);
+	border-radius: 16upx;
+	margin-left: 40upx;
+	color: #363449;
+	float: left;
+}
+
+.xuanzl {
+	color: #FFFFFF;
+	background: linear-gradient(0deg, rgba(252, 187, 103, 1) 0%, rgba(255, 180, 84, 1) 100%);
+	border: 1px solid #FFB454;
+}
+
+.taocwz2 {
+	width: 100%;
+	height: 40upx;
+	line-height: 40upx;
+	font-size: 24upx;
+	text-align: center;
+	color: #B6B6B6;
+}
+
+.taocwz1 {
+	width: 100%;
+	height: 50upx;
+	line-height: 50upx;
+	font-size: 60upx;
+	font-weight: bold;
+	text-align: center;
+	color: #797979;
+	padding-top: 50upx;
+	padding-bottom: 20upx;
+}
+
+.taocwz1 text {
+	font-size: 32upx;
+}
+
+
+
+.zfswwz {
+	width: 690upx;
+	height: 36upx;
+	line-height: 36upx;
+	font-size: 36upx;
+	color: #101010;
+	font-weight: bold;
+	padding-top: 50upx;
+	padding-bottom: 20upx;
+}
+
+.baogzfxz {
+	width: 100%;
+	height: auto;
+	padding-bottom: 0;
+}
+
+.zhifxua {
+	width: 690upx;
+	height: 86upx;
+	display: flex;
+}
+
+.zgszftb {
+	width: 34upx;
+	height: 34upx;
+	display: block;
+	padding-top: 28upx;
+}
+
+.zfwz {
+	flex: 1;
+	height: 86upx;
+	line-height: 86upx;
+	font-size: 32upx;
+	color: #101010;
+	margin-left: 20upx;
+}
+
+.goutu1 {
+	width: 34upx;
+	height: 34upx;
+	background-color: #FFFFFF;
+	border: 1px solid #BEBEBE;
+	border-radius: 20upx;
+	margin-top: 28upx;
+}
+
+.goutu2 {
+	width: 34upx;
+	height: 34upx;
+	background-color: #FCBB67;
+	border: 1px solid #FCBB67;
+	border-radius: 20upx;
+	margin-top: 28upx;
+}
+
+.goutu2 image {
+	width: 20upx;
+	height: 20upx;
+	display: block;
+	padding-top: 10upx;
+}
+.xuanzfdiv{
+	width: 100%;
+	height: 110upx;
+	line-height: 110upx;
+	font-size: 36upx;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #FCBB67;
+	position: fixed;
+	bottom: 0;
+}
+.tibto{
+	width: 100%;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 24upx;
+	color: #B6B6B6;
+	text-align: center;
+}
+.bltzmb{
+	width: 98%;
+	height: 216upx;
+	background-color: #FAFAFA;
+	border-radius: 0px 0px 10upx 10upx;
+}
+.blwfwz1{
+	color: #FFFFFF;
+}
+.blwfwz2{
+	color: #513715;
+}
+.xlndbj{
+	background-color: #FFF3E3;
+}

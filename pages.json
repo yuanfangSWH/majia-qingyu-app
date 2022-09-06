@@ -1,0 +1,732 @@
+{
+	"pages": [{
+			//启动引导页
+			"path": "pages/guide/guide",
+			"style": {}
+		}, {
+			// 登录
+			"path": "pages/login/login",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 框架
+			"path": "pages/index/index",
+			"style": {
+				//开启下拉刷新
+				"enablePullDownRefresh": true
+			}
+		},
+
+		{
+			//本机号码登录
+			"path": "pages/login/benji/benji",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			// 输入手机号
+			"path": "pages/login/shurusj/shurusj",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			// 输入验证码
+			"path": "pages/login/shuruyzm/shuruyzm",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//输入邀请码
+			"path": "pages/login/invite/invite",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+
+		{
+			// 首页
+			"path": "pages/home/home",
+			"style": {}
+
+		}, {
+			// 推荐
+			"path": "pages/recommended/recommended",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 任务详情
+			"path": "pages/recommended/rwdetails/rwdetails",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 导航组件
+			"path": "pages/navigation/navigation",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 我的
+			"path": "pages/personal/personal",
+			"style": {}
+		}, {
+			// 消息
+			"path": "pages/message/message",
+			"style": {}
+		}, {
+			// 任务管理通知
+			"path": "pages/message/Informmanagement/Informmanagement",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 任务领取通知
+			"path": "pages/message/informreceive/informreceive",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 系统消息
+			"path": "pages/message/informsystem/informsystem",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 客服中心
+			"path": "pages/service/service",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			// 发布余额
+			"path": "pages/fabumoney/fabumoney",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+
+		{
+			// 发布余额充值
+			"path": "pages/fabumoney/operation/operation",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			// 发布余额充值成功
+			"path": "pages/fabumoney/chengg/chengg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//提现余额
+			"path": "pages/tixmoney/tixmoney",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//提现
+			"path": "pages/tixmoney/withdrawal/withdrawal",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			// 提现余额提现成功
+			"path": "pages/tixmoney/chengg/chengg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//我的发布
+			"path": "pages/shang/shang",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//搜索
+			"path": "pages/search/search",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//开通VIP
+			"path": "pages/vippage/vippage",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//开通VIP成功
+			"path": "pages/vippage/vipcg/vipcg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//任务管理通知
+			"path": "pages/announcement/announcement",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//公告详情
+			"path": "pages/announcement/announcementxq/announcementxq",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//选择任务类型
+			"path": "pages/task/task",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//发布任务1
+			"path": "pages/task/fabutask/fabutask",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//发布任务2
+			"path": "pages/task/confirmtask/confirmtask",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//发布成功
+			"path": "pages/task/success/success",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//投诉 - 普通页面
+			"path": "pages/recommended/complaints/complaints",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//我的任务
+			"path": "pages/wdtask/wdtask",
+			"style": {
+				//开启下拉刷新
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			//我的任务-多状态任务详情页面(废弃)
+			"path": "pages/wdtask/rwdetails/rwdetails",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+
+		{
+			//投诉
+			"path": "pages/wdtask/complaints/complaints",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//投诉成功
+			"path": "pages/wdtask/complaintscg/complaintscg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//评价
+			"path": "pages/wdtask/evaluation/evaluation",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//评价成功(废弃)
+			"path": "pages/wdtask/evaluationcg/evaluationcg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}
+
+		, {
+			//辩诉成功
+			"path": "pages/wdtask/pleacg/pleacg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//辩诉
+			"path": "pages/wdtask/plea/plea",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//举报成功
+			"path": "pages/wdtask/prosecution/prosecution",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//举报
+			"path": "pages/wdtask/prosecutioncg/prosecutioncg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//辩诉详情
+			"path": "pages/wdtask/pleadetails/pleadetails",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//编辑个人信息
+			"path": "pages/personal/editor/editor",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//邀请好友
+			"path": "pages/invitation/invitation",
+			"style": {
+				//开启下拉刷新
+				"enablePullDownRefresh": true
+			}
+		}, {
+			//发布管理
+			"path": "pages/taskzx/taskzx",
+			"style": {
+				//开启下拉刷新
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			//支付页面
+			"path": "pages/taskzx/confirm/confirm",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//支付成功
+			"path": "pages/taskzx/success/success",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//举报用户
+			"path": "pages/taskzx/complaints/complaints",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//举报用户成功
+			"path": "pages/taskzx/complaintscg/complaintscg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//发布管理-任务详情
+			"path": "pages/taskzx/rwdetails/rwdetails",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//全部用户
+			"path": "pages/taskzx/allyh/allyh",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//商家/本机外用户详情页面
+			"path": "pages/noteshang/noteshang",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//购买加速包
+			"path": "pages/taskzx/speedzf/speedzf",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//购买加速包成功
+			"path": "pages/taskzx/speedzfcg/speedzfcg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//拒绝
+			"path": "pages/taskzx/downrw/downrw",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//拒绝成功(废弃)
+			"path": "pages/taskzx/downrwcg/downrwcg",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//邀请好友海报
+			"path": "pages/invitation/posters/posters",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//设置社交微信号
+			"path": "pages/invitation/setwx/setwx",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//邀请记录(废弃)
+			"path": "pages/invitation/record/record",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//分享赚佣金
+			"path": "pages/sharemoney/sharemoney",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//昵称修改
+			"path": "pages/personal/nickname/nickname",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//轻鱼用户隐私政策
+			"path": "pages/agreement/yszc/yszc",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//轻鱼用户服务协议
+			"path": "pages/agreement/yhfw/yhfw",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//发单规则
+			"path": "pages/agreement/fdgz/fdgz",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//接单规则
+			"path": "pages/agreement/jdgz/jdgz",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//会员协议
+			"path": "pages/agreement/hyxy/hyxy",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//玩法规则1
+			"path": "pages/agreement/wfgza/wfgza",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			//玩法规则2
+			"path": "pages/agreement/wfgzb/wfgzb",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//玩法规则3
+			"path": "pages/agreement/wfgzc/wfgzc",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//关于我们
+			"path": "pages/personal/about/about",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//更换手机号发送验证码
+			"path": "pages/personal/changesjha/changesjha",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//更换手机号输入验证码
+			"path": "pages/personal/changesjhb/changesjhb",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}, {
+			//接单教程
+			"path": "pages/agreement/tutorial/tutorial",
+			"style": {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}
+	    ,{
+			//任务说明
+            "path" : "pages/agreement/rwsm/rwsm",
+            "style" : {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+        },{
+			//web 浏览器组件
+            "path" : "pages/applyfor/applyfor",
+            "style" : {
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+        }
+        ,{
+			//账号锁定
+            "path" : "pages/titles/titles",
+            "style" : {}
+        }
+        ,{
+			//我的团队
+            "path" : "pages/invitation/team/team",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		//默认是default,设置为custom→所有页面都没有原生导航
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "轻鱼",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}

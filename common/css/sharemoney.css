@@ -1,0 +1,332 @@
+.zhuandbq {
+	width: 100%;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	font-size: 36upx;
+	color: #FFFFFF;
+	position: relative;
+}
+
+.airjcg {
+	position: absolute;
+	width: 40upx;
+	height: 40upx;
+	display: block;
+	top: 24upx;
+	left: 20upx;
+}
+
+.touxg1 {
+	width: 126upx;
+	height: 126upx;
+	position: relative;
+}
+
+.zhestoux {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+
+.zhesvvv {
+	width: 32upx;
+	height: 32upx;
+	display: block;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.laozdnic {
+	width: 100%;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 34upx;
+	color: #FFFFFF;
+	text-align: center;
+	margin-bottom: 16upx;
+}
+
+.fenlyj {
+	width: 690upx;
+	height: 150upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4upx 16upx 0px rgba(235, 235, 235, 1);
+	border-radius: 16upx;
+	margin-bottom: 20upx;
+}
+
+.fyljwz {
+	width: 646upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 24upx;
+	color: #202020;
+	position: relative;
+}
+
+.tlbtiao {
+	width: 646upx;
+	height: 20upx;
+	background-color: #EEEEEE;
+	border-radius: 10upx;
+}
+
+.tiansm {
+	height: 20upx;
+	background: linear-gradient(94deg, rgba(251, 208, 17, 1), rgba(248, 161, 13, 1));
+	border-radius: 10upx;
+}
+
+.fkhtjao {
+	width: 646upx;
+	height: 56upx;
+	line-height: 56upx;
+	font-size: 24upx;
+	display: flex;
+}
+
+.ptjlt1 {
+	flex: 1;
+	color: #B5B5B5;
+}
+
+.ptjlt2 {
+	width: 300upx;
+	color: #F8612E;
+	text-align: right;
+}
+
+.paihb {
+	width: 690upx;
+	height: auto;
+	padding-bottom: 30upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4upx 16upx 0px rgba(235, 235, 235, 1);
+	border-radius: 16upx;
+}
+
+.bjtljwz {
+	width: 650upx;
+	height: 86upx;
+	display: flex;
+	line-height: 86upx;
+	margin-bottom: 20upx;
+}
+
+.jlwz1 {
+	font-size: 36upx;
+	color: #101010;
+	width: 220upx;
+	font-weight: bold;
+}
+
+.jlwz2 {
+	flex: 1;
+	font-size: 22upx;
+	color: #F8612E;
+	text-align: right;
+	margin-right: 20upx;
+}
+
+.rwtslb {
+	width: 650upx;
+	height: 80upx;
+	display: flex;
+	margin-bottom: 40upx;
+}
+
+.wjkey {
+	width: 70upx;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 24upx;
+	color: #A5A5A5;
+}
+
+.tiansxjbh {
+	width: 80upx;
+	height: 80upx;
+	display: block;
+	border-radius: 50%;
+}
+
+.wtlmwdiv {
+	width: 324upx;
+	height: 80upx;
+	margin-left: 30upx;
+}
+
+.nijy {
+	width: 100%;
+	height: 40upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 28upx;
+	color: #555555;
+	line-height: 40upx;
+}
+
+.ljyd {
+	width: 100%;
+	height: 40upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 24upx;
+	color: #C3C3C3;
+	line-height: 40upx;
+}
+
+.tljq {
+	flex: 1;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 32upx;
+	color: #555555;
+	text-align: right;
+	margin-right: 20upx;
+}
+
+.fenxdib {
+	width: 100%;
+	height: 120upx;
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 0;
+	display: flex;
+}
+
+.yonlwz {
+	flex: 1;
+	height: 120upx;
+	line-height: 120upx;
+	font-size: 28upx;
+	color: #B1B1B1;
+	text-indent: 30upx;
+}
+
+.tilydiv {
+	width: 220upx;
+	height: 76upx;
+	background-color: #FC6930;
+	border-radius: 38upx;
+	text-align: center;
+	line-height: 76upx;
+	color: #FFFFFF;
+	font-size: 28upx;
+	font-weight: bold;
+	margin-top: 26upx;
+	margin-right: 30upx;
+}
+
+/* 分享弹框CSS */
+.fendiv {
+	width: 630upx;
+	height: 954upx;
+	position: fixed;
+	left: 50%;
+	margin-left: -315upx;
+	top: -200%;
+	z-index: 20;
+}
+.fenimgtp{
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+/* 分享底部CSS */
+.rhfdiv {
+	width: 100%;
+	height: 220upx;
+	background-color: #FFFFFF;
+	z-index: 30;
+	position: fixed;
+	bottom: 0;
+}
+
+.dsgt {
+	width: 100%;
+	height: 60upx;
+	display: flex;
+}
+
+.jbtmp {
+	flex: 1;
+	line-height: 60upx;
+	font-size: 26upx;
+	color: #C3C3C3;
+	text-indent: 28upx;
+}
+
+.tbdxjt {
+	width: 60upx;
+	height: 60upx;
+	display: block;
+	margin-right: 14upx;
+}
+
+.dibfx {
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+	display: flex;
+	padding-top: 10upx;
+}
+
+.tiefenk {
+	flex: 1;
+	height: auto;
+}
+
+.fenltb {
+	width: 76upx;
+	height: 76upx;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.yngtwz {
+	width: 100%;
+	line-height: 60upx;
+	text-align: center;
+	font-size: 28upx;
+	color: #424242;
+}
+
+/* 分享弹框CSS结束 */
+.paihtb {
+	width: 42upx;
+	height: 52upx;
+	display: block;
+	padding-top: 16upx;
+	padding-left: 12upx;
+}
+
+.tliywz {
+	padding-left: 24upx;
+}
+
+.loijwl {
+	width: 100%;
+	height: 600upx;
+}
+
+.loimg {
+	width: 156upx;
+	height: 176upx;
+	display: block;
+	padding-top: 120upx;
+	padding-bottom: 54upx;
+}
+
+.lowz {
+	width: 100%;
+	font-size: 28upx;
+	color: #C0C0C0;
+	text-align: center;
+}

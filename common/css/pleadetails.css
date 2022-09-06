@@ -1,0 +1,162 @@
+.zgszudiv {
+	width: 650upx;
+	height: auto;
+	padding-top: 40upx;
+	padding-bottom: 10upx;
+	position: relative;
+	margin-left: 60upx;
+	border-left: 1px #DEDEDE solid;
+}
+
+.tousdiv {
+	width: 100%;
+	height: auto;
+	display: flex;
+}
+
+.xbtimg {
+	width: 70upx;
+	height: 70upx;
+	display: block;
+	position: absolute;
+	left: -38upx;
+}
+
+.jubyibo {
+	flex: 1;
+	height: auto;
+	background-color: #FFFFFF;
+	border-radius: 16upx;
+	padding-top: 30upx;
+	padding-bottom: 30upx;
+	box-shadow: 0px 4upx 16upx 0px rgba(235, 235, 235, 1);
+	margin-left: 60upx;
+}
+
+.zgsxinx {
+	width: 100%;
+	height: 60upx;
+	display: flex;
+	padding-bottom: 6upx;
+}
+
+.zgmimgtx {
+	width: 60upx;
+	height: 60upx;
+	border-radius: 50upx;
+	margin-left: 30upx;
+}
+
+.zglg {
+	flex: 1;
+	height: 60upx;
+	margin-left: 20upx;
+}
+
+.ljgwz1 {
+	width: 100%;
+	height: 26upx;
+	line-height: 26upx;
+	font-size: 24upx;
+	color: #000000;
+	padding-top: 6upx;
+}
+
+.ljgwz2 {
+	width: 100%;
+	height: 26upx;
+	line-height: 26upx;
+	font-size: 22upx;
+	color: #B3B3B3;
+}
+
+.tiebw1 {
+	width: 530upx;
+	height: auto;
+	line-height: 40upx;
+	font-size: 26upx;
+	color: #262626;
+}
+
+.tiebw2 {
+	width: 530upx;
+	height: auto;
+	display: flex;
+	padding-top: 10upx;
+}
+
+.zheyqaind {
+	width: 244upx;
+	height: auto;
+	margin-right: 20upx;
+	border-radius: 8upx;
+}
+.zheyqaindimg {
+	width: 244upx;
+	height: 280upx;
+	display: block;
+	margin-bottom: 10upx;
+}
+.dibujrjk {
+	width: 100%;
+	height: 140upx;
+	border-top: 1px #F3F4F4 solid;
+	position: fixed;
+	bottom: 0;
+	background-color: #FFFFFF;
+	z-index: 10;
+	display: flex;
+}
+
+.yonjink {
+	flex: 1;
+	height: 140upx;
+	line-height: 140upx;
+	color: #343A39;
+	font-size: 28upx;
+	margin-left: 40upx;
+}
+
+.yonjink text {
+	color: #FFAF59;
+}
+
+.tieanniu {
+	width: 390upx;
+	height: 90upx;
+	padding-top: 34upx;
+	margin-right: 30upx;
+}
+
+.xuybaog2 {
+	width: 100%;
+	height: 76upx;
+	line-height: 76upx;
+	font-size: 26upx;
+	color: #FFFFFF;
+	text-align: center;
+	border-radius: 50upx;
+	background-color: #FCBB67;
+}
+
+.zgsdaojsj {
+	width: 100%;
+	height: 66upx;
+	line-height: 66upx;
+	font-size: 24upx;
+	color: #777777;
+	text-align: center;
+	background-color: #FFEBCB;
+	position: fixed;
+	bottom: 140upx;
+}
+
+.zgsdaojsj text {
+	color: #FF8B4C;
+}
+.xptzwf{
+	width: 650upx;
+	height: 260upx;
+	margin-left: 60upx;
+	border-left: 1px #DEDEDE solid;
+}

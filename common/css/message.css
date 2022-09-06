@@ -1,0 +1,105 @@
+.zhexgu{
+	width: 100%;
+	height:162upx;
+	background-color: #FFFFFF;
+	display: flex;
+	margin-bottom: 1px;
+}
+.zgtxdiv{
+	width: 90upx;
+	height: 90upx;
+	padding-top: 30upx;
+	margin-left: 30upx;
+}
+.tes_zgtxdiv{
+	width: 108upx;
+	height: 110upx;
+	padding-top: 26upx;
+	margin-left: 30upx;
+}
+.xiaotx{
+	width: 100%;
+	height: 100%;
+	border-radius:50upx;
+}
+.zlwznr{
+	flex: 1;
+	height: 162upx;
+	margin-left: 30upx;
+}
+.yiz1{
+	width: 100%;
+	height: 30upx;
+	display: flex;
+	line-height: 30upx;
+	padding-top: 40upx;
+}
+.tozw1{
+	flex: 1;
+	height: 30upx;
+	color: #101010;
+	font-size: 30upx;
+}
+.tozw2{
+	width: 190upx;
+	height: 30upx;
+	color: #B5B5B5;
+	font-size: 24upx;
+	text-align: center;
+}
+.yiz2{
+	width: 100%;
+	height: 36upx;
+	display: flex;
+	line-height: 36upx;
+	padding-top: 10upx;
+}
+.cmb{
+	flex: 1;
+	height: 36upx;
+}
+.zgswnr{
+	width: 480upx;
+	height: 36upx;
+	color: #B5B5B5;
+	font-size: 24upx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.dsshul{
+	width: 16upx;
+	height: 16upx;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 22upx;
+	background-color: #FF4A20;
+	border-radius:20upx;
+	/* padding-left: 12upx;
+	padding-right: 12upx; */
+	margin-right: 30upx;
+}
+.gaozkq{
+	width: 100%;
+	height: 78upx;
+	background-color: #FFFFFF;
+	display: flex;
+}
+.tistuis{
+	flex: 1;
+	height: 78upx;
+	line-height: 78upx;
+	font-size: 26upx;
+	color: #4C4C4C;
+	margin-left: 30upx;
+}
+.tistuis text{
+	color: #FF8B4C;
+}
+.gaozkq image{
+	width: 22upx;
+	height: 22upx;
+	display: block;
+	margin-top: 30upx;
+	margin-right: 30upx;
+}

@@ -1,0 +1,414 @@
+.toubu {
+	width: 100%;
+	height: 332upx;
+	background-color: #FCBB67;
+	overflow: hidden;
+	margin-bottom: 20upx;
+}
+
+.din1 {
+	width: 100%;
+	height: 122upx;
+	display: flex;
+}
+
+.shez {
+	width: 50upx;
+	height: 50upx;
+	margin-left: 26upx;
+	margin-top: 38upx;
+}
+
+.shezimg {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.xiaox {
+	width: 50upx;
+	height: 50upx;
+	margin-right: 26upx;
+	margin-top: 38upx;
+}
+
+.xiaoximg {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.biaot {
+	flex: 1;
+	height: 122upx;
+	line-height: 122upx;
+	font-size: 36upx;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.din2 {
+	width: 100%;
+	height: 114upx;
+	display: flex;
+}
+
+.zgswdtx {
+	width: 114upx;
+	height: 114upx;
+	position: relative;
+	margin-left: 30upx;
+}
+
+.zhestoux {
+	width: 90%;
+	height: 90%;
+	display: block;
+	border-radius: 80upx;
+	border: 4upx #FFFFFF solid;
+}
+
+.zhesvvv {
+	width: 32upx;
+	height: 32upx;
+	display: block;
+	position: absolute;
+	right: 8upx;
+	bottom: 8upx;
+}
+
+.zlisx {
+	flex: 1;
+	height: 100%;
+	margin-left: 30upx;
+}
+
+.yonunm {
+	width: 100%;
+	height: 40upx;
+	line-height: 40upx;
+	font-size: 36upx;
+	color: #FFFFFF;
+	padding-top: 10upx;
+}
+
+.jindt {
+	width: 100%;
+	height: 40upx;
+	display: flex;
+	padding-top: 10upx;
+}
+
+.hydj {
+	line-height: 40upx;
+	font-size: 26upx;
+	color: #FFF0E8;
+	margin-right: 20upx;
+}
+
+.jdtdiv {
+	width: 369upx;
+	height: 26upx;
+	background: linear-gradient(0deg, rgba(255, 238, 217, 1), rgba(255, 255, 255, 1));
+	border-radius: 13upx;
+	margin-top: 8upx;
+}
+
+.ballwen {
+	width: 34upx;
+	height: 34upx;
+	margin-right: 36upx;
+	margin-top: 60upx;
+}
+
+.ballwen image {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.din3 {
+	width: 690upx;
+	height: 78upx;
+	overflow: hidden;
+	padding-top: 28upx;
+}
+
+.beijtc {
+	width: 690upx;
+	height: 90upx;
+	background-color: #322F4B;
+	border-radius: 16upx;
+	display: flex;
+}
+
+.vipwz {
+	flex: 1;
+	height: 78upx;
+	line-height: 78upx;
+	font-size: 22upx;
+	font-weight: bold;
+	color: #FFF1CB;
+	margin-left: 60upx;
+}
+
+.choann {
+	width: 140upx;
+	height: 40upx;
+	background: linear-gradient(-82deg, rgba(251, 241, 214, 1), rgba(244, 227, 184, 1));
+	border-radius: 20upx;
+	line-height: 40upx;
+	font-size: 24upx;
+	color: #24233B;
+	text-align: center;
+	margin-right: 30upx;
+	margin-top: 16upx;
+}
+
+.tuandm {
+	width: 690upx;
+	height: 120upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4px 20px 0px rgba(230, 230, 230, 1);
+	border-radius: 16upx;
+	display: flex;
+	margin-top: 20upx;
+	margin-bottom: 20upx;
+}
+
+.tuandwz {
+	flex: 1;
+	height: 100%;
+	margin-left: 30upx;
+}
+
+.tuandjt {
+	width: 24upx;
+	height: 20upx;
+	display: block;
+	padding-top: 52upx;
+	margin-right: 30upx;
+}
+
+.zgsmk {
+	width: 100%;
+	height: 30upx;
+	display: flex;
+	padding-top: 26upx;
+}
+
+.tddj {
+	width: 130upx;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 28upx;
+	color: #38393F;
+}
+
+.dtbdj {
+	width: 54upx;
+	height: 24upx;
+	background: linear-gradient(267deg, rgba(255, 97, 60, 1), rgba(255, 155, 66, 1));
+	margin-top: 4upx;
+	line-height: 28upx;
+	font-size: 20upx;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.zgssmtd {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 20upx;
+	color: #5D5D5D;
+	padding-top: 10upx;
+}
+
+.mokdi {
+	width: 690upx;
+	height: 156upx;
+	margin-bottom: 20upx;
+	display: flex;
+}
+
+.fabye {
+	width: 330upx;
+	height: 156upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4px 20px 0px rgba(230, 230, 230, 1);
+	border-radius: 16upx;
+}
+
+.yonjyue {
+	width: 330upx;
+	height: 156upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4px 20px 0px rgba(230, 230, 230, 1);
+	border-radius: 16upx;
+	margin-left: 30upx;
+}
+
+.fanr {
+	width: 100%;
+	height: 80upx;
+	line-height: 80upx;
+	display: flex;
+}
+
+.wztm {
+	width: 166upx;
+	height: 100%;
+	color: #000000;
+	font-size: 26upx;
+	font-weight: bold;
+	margin-left: 30upx;
+}
+
+.jyauscz {
+	flex: 1;
+	width: 100%;
+	color: #FFB25B;
+	font-size: 20upx;
+}
+
+.zgsqian {
+	width: 100%;
+	height: 50upx;
+	line-height: 50upx;
+	color: #FCBB67;
+	font-size: 46upx;
+	font-weight: bold;
+	text-align: center;
+}
+
+.zgsqian text {
+	font-size: 30upx;
+}
+
+.daoht {
+	width: 690upx;
+	height: 220upx;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4px 20px 0px rgba(230, 230, 230, 1);
+	border-radius: 16upx;
+	margin-bottom: 20upx;
+}
+
+.shouwdrw {
+	width: 690upx;
+	height: 100upx;
+	display: flex;
+	padding-top: 10upx;
+}
+
+.mkmjg {
+	flex: 1;
+	height: 100%;
+}
+
+.mkmjg image {
+	width: 50upx;
+	height: 50upx;
+	display: block;
+}
+
+.zmkwzo {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 24upx;
+	color: #444444;
+	text-align: center;
+	padding-top: 16upx;
+}
+/*  */
+.wdrwbt{
+	width: 100%;
+	height: 82upx;
+	display: flex;
+}
+.qiswdw1{
+	width: 130upx;
+	height: 82upx;
+	line-height: 82upx;
+	font-size: 30upx;
+	color: #202020;
+	font-weight: bold;
+	margin-left: 30upx;
+}
+.qiswdw2{
+	flex: 1;
+	height: 82upx;
+	line-height: 82upx;
+	font-size: 24upx;
+	color: #979797;
+	text-align: right;
+}
+.grjt{
+	width: 20upx;
+	height: 20upx;
+	display: block;
+	padding-top: 34upx;
+	padding-right: 20upx;
+	padding-left: 6upx;
+}
+.wdfabdiv{
+	width:690upx;
+	height:120upx;
+	background-color: #FFFFFF;
+	box-shadow:0px 4upx 16upx 0px rgba(235,235,235,1);
+	border-radius:20upx;
+	display: flex;
+	margin-bottom: 20upx;
+}
+.qhhj{
+	width: 50upx;
+	height: 50upx;
+	display: block;
+	padding-top: 38upx;
+	padding-left: 26upx;
+}
+.rydzj{
+	width: 130upx;
+	height: 120upx;
+	line-height: 120upx;
+	font-size: 30upx;
+	color: #424242;
+	font-weight: bold;
+	margin-left: 20upx;
+}
+.wzmhxdqp{
+	flex: 1;
+	height: 120upx;
+	line-height: 120upx;
+	font-size: 24upx;
+	color: #979797;
+	text-align: right;
+}
+.rgbj{
+	width: 20upx;
+	height: 20upx;
+	display: block;
+	padding-top: 52upx;
+	padding-right: 20upx;
+	padding-left: 6upx;
+}
+.wyjzj{
+	width:690upx;
+	height:240upx;
+	background-color: #FFFFFF;
+	box-shadow:0px 4upx 16upx 0px rgba(235,235,235,1);
+	border-radius:20upx;
+	margin-bottom: 100upx;
+}
+.rgkyht{
+	width:100%;
+	height:120upx;
+	display: flex;
+}
+.zgsxiana{
+	width: 630upx;
+	height: 1px;
+	background-color: #F5F5F5;
+}

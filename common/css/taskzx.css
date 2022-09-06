@@ -1,0 +1,312 @@
+.zgshos {
+	width: 100%;
+	height: 76upx;
+	padding-top: 16upx;
+}
+
+.shous {
+	width: 690upx;
+	height: 60upx;
+	background-color: #FFFFFF;
+	border-radius: 30upx;
+	display: flex;
+}
+
+.shous_img {
+	width: 29upx;
+	height: 29upx;
+	display: block;
+	padding-top: 18upx;
+	padding-left: 16upx;
+}
+
+.shous-input {
+	width: 630upx;
+	height: 60upx;
+	border-radius: 25upx;
+	padding-left: 10upx;
+	line-height: 60upx;
+	color: #D2D2D2;
+	font-size: 24upx;
+}
+
+.zgldilx {
+	width: 100%;
+	height: auto;
+	border-bottom: 1px #EDEDED solid;
+	margin-bottom: 30upx;
+}
+
+.biaotl {
+	width: 720upx;
+	height: 54upx;
+	padding-top: 6upx;
+	display: flex;
+}
+
+.biz {
+	flex: 1;
+	height: 90upx;
+}
+
+.nroo {
+	width: 100%;
+}
+
+.bibt {
+	width: 100%;
+	color: #9B9B9B;
+	font-size: 28upx;
+	height: 50upx;
+	line-height: 50upx;
+	text-align: center;
+}
+
+.xuanzl {
+	color: #000000;
+	font-weight: bold;
+}
+
+.tgdlj {
+	width: 50%;
+	height: 6upx;
+	background: linear-gradient(90deg, rgba(248, 162, 27, 1), rgba(255, 204, 0, 1));
+	border-radius: 10upx;
+}
+
+/* 任务模块 */
+.zhuylbmk {
+	width: 710upx;
+	height: auto;
+	padding-bottom: 40upx;
+	background-color: #FFFFFF;
+	margin-bottom: 20upx;
+}
+
+.dianjwz {
+	width: 170upx;
+	height: 226upx;
+	line-height: 226upx;
+	font-size: 30upx;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #F54949;
+}
+
+.rwbh {
+	width: 100%;
+	height: 80upx;
+	display: flex;
+}
+
+.yhigm {
+	width: 40upx;
+	height: 40upx;
+	display: block;
+	border-radius: 30upx;
+	margin-left: 30upx;
+	margin-top: 20upx;
+}
+
+.yonhm {
+	width: 420upx;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 28upx;
+	color: #424242;
+	margin-left: 18upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.zbhwz {
+	width: 230upx;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 24upx;
+	color: #AEAEAE;
+}
+
+.dnrmk {
+	width: 100%;
+	height: auto;
+	display: flex;
+}
+
+.rwmk1 {
+	flex: 1;
+	height: auto;
+	margin-left: 30upx;
+}
+
+.rwms {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 30upx;
+	color: #101010;
+	padding-top: 10upx;
+}
+
+.zgsmiaos {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 24upx;
+	color: #B5B5B5;
+	padding-top: 20upx;
+}
+.zgsmiaos2 {
+	width: 96%;
+	height: auto;
+	line-height: 40upx;
+	font-size: 24upx;
+	color: #B5B5B5;
+	padding-top: 20upx;
+}
+.zgsmiaos text {
+	color: #ED703F;
+}
+
+.lingqsj text {
+	color: #ED703F;
+}
+
+.lingqsj {
+	width: 96%;
+	height: auto;
+	line-height: 40upx;
+	font-size: 28upx;
+	color: #B5B5B5;
+	padding-top: 18upx;
+}
+
+.lingqsj2 {
+	width: 100%;
+	height: auto;
+	line-height: 40upx;
+	font-size: 28upx;
+	color: #B5B5B5;
+	padding-top: 18upx;
+}
+
+.rwmk2 {
+	width: 150upx;
+	height: auto;
+	padding-right: 30upx;
+}
+
+.jiaq {
+	width: 150upx;
+	height: 40upx;
+	line-height: 40upx;
+	font-size: 26upx;
+	color: #FF9E30;
+	text-align: right;
+}
+
+.jiaq text {
+	font-size: 30upx;
+}
+
+.tijrwan {
+	width: 150upx;
+	height: 60upx;
+	background-color: #FCBB67;
+	border-radius: 30upx;
+	line-height: 60upx;
+	font-size: 26upx;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.sanftx {
+	width: 100%;
+	height: 60upx;
+	line-height: 90upx;
+	font-size: 24upx;
+	color: #B5B5B5;
+	text-align: center;
+	display: flex;
+}
+.blzw{
+	flex: 1;
+	height: 100%;
+}
+.wsmzhal{
+	width: 84upx;
+	height: 80upx;
+	display: flex;
+	line-height: 80upx;
+	font-size: 26upx;
+	color: #FCBB67;
+}
+.bljy{
+	flex: 1;
+}
+.yaymim{
+	width: 22upx;
+	height: 22upx;
+	padding-top:28upx;
+}
+.leitwb{
+	width: 100%;
+	height: auto;
+}
+.yonhjb{
+	width: 100%;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 28upx;
+	display: flex;
+}
+.zhiyqmjbtx{
+	width:40upx;
+	height:40upx;
+	margin-left: 30upx;
+	margin-right: 16upx;
+	padding-top: 16upx;
+}
+.zhiyqmjbtx image{
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius:50upx;
+}
+.symjwz1{
+	flex: 1;
+	height: 100%;
+	color: #424242;
+}
+.symjwz2{
+	width: 156upx;
+	height: 100%;
+	color: #9F9F9F;
+}
+.symjwz3{
+	width: 110upx;
+	height: 100%;
+	color: #FCBB67;
+	margin-right: 30upx;
+}
+.ckadjiae{
+	width: 100%;
+	height: 70upx;
+	line-height: 70upx;
+	color: #4C4C4C;
+	font-size: 26upx;
+	font-weight: bold;
+	text-align: center;
+}
+.choosewz{
+	color: #FCBB67;
+}
+.zhanwnull{
+	width: 100%;
+	height: 100upx;
+	line-height: 100upx;
+	font-size: 26upx;
+	color: #4C4C4C;
+	text-align: center;
+}

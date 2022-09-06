@@ -1,0 +1,231 @@
+.zgsjinq {
+	width: 690upx;
+	height: 322upx;
+	background-color: #FCBB67;
+	box-shadow: 0px 4px 16px 0px rgba(240, 240, 240, 1);
+	border-radius: 20upx;
+	position: relative;
+	overflow: hidden;
+	margin-top: 30upx;
+	margin-bottom: 20upx;
+}
+
+.cjimz {
+	width: 100%;
+	height: 180upx;
+	display: flex;
+}
+
+.teli {
+	flex: 1;
+	height: 100%;
+	margin-left: 34upx;
+}
+
+.zgsyuaner {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 24upx;
+	color: #FFEEE5;
+	padding-top: 30upx;
+}
+
+.ljkqq {
+	width: 100%;
+	height: 40upx;
+	line-height: 40upx;
+	font-size: 48upx;
+	color: #FFFFFF;
+	padding-top: 30upx;
+}
+
+.ljkqq text {
+	font-size: 32upx;
+}
+
+.cccya {
+	width: 170upx;
+	height: 68upx;
+	line-height: 68upx;
+	font-size: 28upx;
+	color: #FCBB67;
+	text-align: center;
+	background-color: #FFFFFF;
+	border-radius: 34upx;
+	margin-top: 40upx;
+}
+
+.zhenyx {
+	width: 150upx;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 28upx;
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 60upx;
+}
+
+.zhenyx2 {
+	width: 170upx;
+	height: 68upx;
+	line-height: 68upx;
+	font-size: 28upx;
+	color: #FCBB67;
+	text-align: center;
+	background-color: #FFFFFF;
+	border-radius: 34upx;
+	margin-top: 40upx;
+	margin-right: 40upx;
+}
+
+.zgsxbf {
+	width: 100%;
+	height: 190upx;
+	position: absolute;
+	bottom: -20upx;
+	display: flex;
+	background-color: #FFFFFF;
+	border-radius: 20upx;
+}
+
+.xieyao {
+	flex: 1;
+	height: 100%;
+}
+
+.zgsqt {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 38upx;
+	color: #414141;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 40upx;
+}
+
+.zgsqt text {
+	font-size: 30upx;
+}
+
+.zgszz {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 26upx;
+	color: #A9A9A9;
+	text-align: center;
+	padding-top: 30upx;
+}
+
+.jildiv {
+	width: 690upx;
+	height: auto;
+	padding-bottom: 60upx;
+	background-color: #FFFFFF;
+	border-radius: 16upx;
+}
+
+.jildaoh {
+	width: 670upx;
+	height: 100upx;
+	display: flex;
+}
+
+.dianj {
+	flex: 1;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 30upx;
+	color: #161616;
+	text-align: center;
+	margin-left: 20upx;
+	margin-right: 20upx;
+}
+
+.dianj2 {
+	margin-left: 54upx;
+	margin-right: 54upx;
+}
+
+.xuanzl {
+	border-bottom: 2px #FCBB67 solid;
+}
+
+.zxsshuj {
+	width: 610upx;
+	height: 120upx;
+	padding-top: 40upx;
+	display: flex;
+	border-bottom: 1px #EBEEF0 solid;
+}
+
+.jildimg {
+	width: 80upx;
+	height: 80upx;
+	display: block;
+	border-radius: 50upx;
+}
+
+.zgjswc {
+	width: 300upx;
+	height: 80upx;
+	margin-left: 40upx;
+}
+
+.wxcz {
+	width: 290upx;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 30upx;
+	color: #000000;
+	padding-top: 6upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.zgjkl {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 26upx;
+	color: #B5B5B5;
+	padding-top: 18upx;
+}
+
+.zgsq {
+	flex: 1;
+	height: 80upx;
+}
+
+.qwz {
+	width: 100%;
+	height: 30upx;
+	line-height: 30upx;
+	font-size: 28upx;
+	font-weight: bold;
+	color: #484848;
+	text-align: right;
+	padding-top: 6upx;
+}
+
+.qwz text {
+	font-weight: bolder;
+}
+
+.yctj {
+	width: 100%;
+	height: 34upx;
+	line-height: 34upx;
+	font-size: 22upx;
+	text-align: right;
+}
+
+.zgsnmbdx {
+	width: 1px;
+	height: 96upx;
+	background-color: #D8D8D8;
+	margin-top: 40upx;
+}
